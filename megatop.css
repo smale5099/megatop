@@ -1,11 +1,10 @@
 .first-line {
     display: flex;
-    justify-content: space-around;
     height: 400px;
+    justify-content: center;
 }
 
 .first-line__1 {
-    width: 25%;
     max-width: 400px;
     margin-right: 20px;
 }
@@ -13,7 +12,6 @@
 .img {
     height: 30%;
 }
-
 
 .line__1__back {
     background-color: #e2e2e2;
